@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.such{
+    position: relative;
+    width: 300px;
+    height: 40px;
+    margin: 20px;
+}
+
+.such input{
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    padding-left: 10px;
+    font-size: 18px;
+}
+
+.such button{
+    top: 2px;
+    right: -10px;
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: 980;
+}
